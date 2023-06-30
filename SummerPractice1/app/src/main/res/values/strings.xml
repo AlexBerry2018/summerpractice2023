@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Summer Practice 1</string>
+    <string name="app_editText_name">Имя</string>
+    <string name="app_editText_heigth">Рост</string>
+    <string name="app_editText_age">Возраст</string>
+    <string name="app_editText_weight">Вес</string>
+    <string name="app_button_eval">Рассчитать</string>
+</resources>
